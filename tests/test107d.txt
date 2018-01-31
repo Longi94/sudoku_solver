@@ -1,0 +1,17 @@
+4
+ 11s   9s    5   7s    -   os  4sw   3w   es   es   es    e   8s  osw   ew  10s
+   2    4   os 12sw    8    -  osw   11    9    o  15s   10    w  14w  16s   7w
+  es    6   16   ow 12sw   14    e   7w    3    -  4sw    -   ow   os  15s   9s
+   s   ew    8   ow   5s  esw   es  osw   7s   1s   os  2sw   ow 12sw   es   4s
+  es   es    -  osw   2w   3w   7s  16w  14s    e   es   ow   os    o    o   15
+   7    o  esw    e   4s 13sw   6w   10  osw  16w   ow    1  14s  osw   sw  3sw
+   o   15   1s 16sw    o 12sw   es   es    6   es  5sw    -   os   4w 11sw   2w
+  os  8sw    e  9sw    s    o  11s   5s   sw  3sw  2sw  7sw  esw   es  10s   6s
+   6    o   sw   8s  16s   5w  14w    e   13  2sw  3sw  esw  9sw  15s   7s  11s
+  16  osw   os  11s   os    7 10sw   2s   1w    s 14sw  5sw   6w   8s   es    s
+ 14s  12s   2s   4s   6s  9sw    o   1s  11s   sw   sw   ew   10  3sw   os    -
+   o   7s    o   os  11s   ew  13w 12sw   10 15sw   sw   4s    e   2s    e   1w
+  1s   ew   sw   ew   es    e   ow   15   ew    s  13w    3  2sw   7w 12sw   sw
+  es   2s   es   10  osw    w  osw  13s  esw 11sw   os   os    -  6sw   ow  14w
+  9s    -    7    o  esw   2s   es    8  osw  4sw   10   es 13sw   os    1  16w
+  12   5w    -    w    1   11    3    w    e   ow  16w  15w   4w    e   9w   8w

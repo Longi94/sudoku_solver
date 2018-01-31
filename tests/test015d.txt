@@ -1,0 +1,5 @@
+2
+   -    w   sw   sw
+   s  esw   es   sw
+   -    w    s   sw
+   -    w    w    w

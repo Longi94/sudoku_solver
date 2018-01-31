@@ -1,0 +1,10 @@
+3
+   9    o    6    -    -    e    8    7    e
+   3    -    e    -    -    7    o    9    1
+   2   7w    o    -    o    -    o    6    e
+   o    e    e    -    -    9    -    e    e
+  8s    2    -    -    -    -    o    4    5
+   o    5    9    -    4    -    o    -    e
+   -    e    -    9    o    o    e    -    3
+   5    -    -    e    6    o    4    e    7
+   e    o    o    e    -    5    -    o    o

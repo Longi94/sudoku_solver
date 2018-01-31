@@ -1,0 +1,10 @@
+3
+   4   3w    7    s    w   6s  osw   sw    w
+   8   5w   9s   sw   es   ow  esw   sw    s
+   s  osw    w  osw    -    -    -  esw    8
+   o    w    -    -    w    o    -   9s  esw
+   -  esw   4s   es   sw    s   1s  6sw  osw
+   -    s    s    3  esw   es    -    w   2w
+  os   sw    s  osw    o   9s    w   ow  esw
+  es   sw    -   sw  osw   ew    s   sw    -
+   7    w    w    -    w    2    w    w    w

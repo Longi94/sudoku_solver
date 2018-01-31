@@ -1,0 +1,10 @@
+3
+   -   1w    6    -    -    o    -    -    -
+   -    o    o   sw    -    -    s    -    -
+   -    9    7    -  esw   es    -   sw    -
+  es    e    w    o    s    -    w    8    -
+   -    -    o    -   4s    e   es    w    o
+   -   ew    e    s    o   ew    w    -   es
+   -    o    -    6    o    s    8    e   1w
+   3    -    -    w    -    w    7    s  9sw
+   o    w    e   ow    2    w    5    -    e

@@ -1,0 +1,5 @@
+2
+  os  esw   sw  esw
+   4  osw  2sw   ow
+   s    s  osw   os
+   1    o   ew    -

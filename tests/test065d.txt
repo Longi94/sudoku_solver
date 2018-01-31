@@ -1,0 +1,10 @@
+3
+   -   1s   4w   8s   5w   3s   6w   2s    w
+   3   es   es  7sw   os  esw    s  1sw    o
+   -   5w   os  2sw    e    w    o    -    w
+   e   9w  esw   ow   ew   7w    5  6sw  osw
+   e    w    o   sw    e   sw   7s    -    w
+  es  7sw    -    -    o   ew    s  3sw   ew
+   -   ew    w   os    -   6w   1w  8sw    2
+   o   8w  3sw  esw    s  esw  osw    5   sw
+   5    w    -    o   ew    w   4w    o    3

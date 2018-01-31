@@ -1,0 +1,17 @@
+4
+   6    9    5    7    2    4  14s  12s    -    8   11   16    o  13s    -   10
+  16  13w    3   os   6w   es  11s    o    2    9    1    e    -    s   7w  4sw
+   8    e    o   2s   16    o    -   13  14w   12    o   3s    6    -   5s    o
+  10    -   14    o    9   15    3    7   5s    4    o    6    e    8   2s   ow
+   e    e   10    9   ew   ow    e   3w    w    6   5w   os   15    4    o    o
+   5    7   ew    -   os  13s   15   9s   ew    e    8   14   1w    e   16    o
+   -    o   13   8w  10s    e   1w   6w   16    o    o   ew    w    -  14w    2
+   e   1w  esw    o    5    2   es    -   11    o    9    o   ew    7  10w   12
+  9s   ew   ow   16    e    -   13    1    e   15    w    o    5    -   3w    8
+   e   14    1   6w    3   ew    9   10    o    o    2   8s    e    o   15    -
+   -   15    4  13w    8    o    7   14    1   os   10    o    2  12s    e    e
+   -   5s    8  10s  15w   11    2    4    7  16w    6  12s   14    w    o    o
+   7    -    e    o   13    o    w    8    9  14w    4    5   ew   ow   ew   15
+ 13s  10s   os    5    o  14s   12    w   ew  osw    e    e   ow   3s   4w    6
+   e   os   sw   12   1w    9    5   11   6s   es   15    o    o    w   es   14
+   -   ew    o    e    -    -    6    e   ow   11    e   ow    7    e    9    -

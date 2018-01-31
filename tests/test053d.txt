@@ -1,0 +1,10 @@
+3
+   4    o    e    5    o    -    -    2    o
+   o    o    o    o    e    2    1    e    6
+   e    o    -    -    -    1    5    7    o
+   o    -    o    -    2    o    -    -    4
+   -    9    -    8    o    e    e    o    -
+   e    2    -    -    o    4    o    o    -
+   o    4    9    -    o    e    o    e    2
+   -    -    3    -    e    -    o    e    -
+   1    e    -    2    7    3    e    o    o

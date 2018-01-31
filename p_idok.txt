@@ -1,0 +1,271 @@
+Feladvány: tests/test001d.txt, megoldásszám:   1, futási idõ:   0.000 s HELYES
+Feladvány: tests/test002d.txt, megoldásszám:   1, futási idõ:   0.000 s HELYES
+Feladvány: tests/test003d.txt, megoldásszám:   1, futási idõ:   0.000 s HELYES
+Feladvány: tests/test004d.txt, megoldásszám:   1, futási idõ:   0.000 s HELYES
+Feladvány: tests/test005d.txt, megoldásszám:   1, futási idõ:   0.000 s HELYES
+Feladvány: tests/test006d.txt, megoldásszám:   1, futási idõ:   0.000 s HELYES
+Feladvány: tests/test007d.txt, megoldásszám:   1, futási idõ:   0.000 s HELYES
+Feladvány: tests/test008d.txt, megoldásszám:   1, futási idõ:   0.000 s HELYES
+Feladvány: tests/test009d.txt, megoldásszám:   4, futási idõ:   0.000 s HELYES
+Feladvány: tests/test010d.txt, megoldásszám:   4, futási idõ:   0.000 s HELYES
+Feladvány: tests/test011d.txt, megoldásszám:   4, futási idõ:   0.000 s HELYES
+Feladvány: tests/test012d.txt, megoldásszám:   4, futási idõ:   0.000 s HELYES
+Feladvány: tests/test013d.txt, megoldásszám:   4, futási idõ:   0.000 s HELYES
+Feladvány: tests/test014d.txt, megoldásszám:   4, futási idõ:   0.000 s HELYES
+Feladvány: tests/test015d.txt, megoldásszám:   4, futási idõ:   0.000 s HELYES
+Feladvány: tests/test016d.txt, megoldásszám:   5, futási idõ:   0.000 s HELYES
+Feladvány: tests/test017d.txt, megoldásszám:   8, futási idõ:   0.010 s HELYES
+Feladvány: tests/test018d.txt, megoldásszám:   8, futási idõ:   0.000 s HELYES
+Feladvány: tests/test019d.txt, megoldásszám:   8, futási idõ:   0.000 s HELYES
+Feladvány: tests/test020d.txt, megoldásszám:   8, futási idõ:   0.000 s HELYES
+Feladvány: tests/test021d.txt, megoldásszám:  10, futási idõ:   0.000 s HELYES
+Feladvány: tests/test022d.txt, megoldásszám:  10, futási idõ:   0.000 s HELYES
+Feladvány: tests/test023d.txt, megoldásszám:  10, futási idõ:   0.000 s HELYES
+Feladvány: tests/test024d.txt, megoldásszám:  10, futási idõ:   0.000 s HELYES
+Feladvány: tests/test025d.txt, megoldásszám:   1, futási idõ:   0.010 s HELYES
+Feladvány: tests/test026d.txt, megoldásszám:   1, futási idõ:   0.010 s HELYES
+Feladvány: tests/test027d.txt, megoldásszám:   1, futási idõ:   0.010 s HELYES
+Feladvány: tests/test028d.txt, megoldásszám:   1, futási idõ:   0.010 s HELYES
+Feladvány: tests/test029d.txt, megoldásszám:   1, futási idõ:   0.010 s HELYES
+Feladvány: tests/test030d.txt, megoldásszám:   1, futási idõ:   0.000 s HELYES
+Feladvány: tests/test031d.txt, megoldásszám:   1, futási idõ:   0.000 s HELYES
+Feladvány: tests/test032d.txt, megoldásszám:   1, futási idõ:   0.000 s HELYES
+Feladvány: tests/test033d.txt, megoldásszám:   1, futási idõ:   0.010 s HELYES
+Feladvány: tests/test034d.txt, megoldásszám:   1, futási idõ:   0.010 s HELYES
+Feladvány: tests/test035d.txt, megoldásszám:   1, futási idõ:   0.000 s HELYES
+Feladvány: tests/test036d.txt, megoldásszám:   1, futási idõ:   0.000 s HELYES
+Feladvány: tests/test037d.txt, megoldásszám:   1, futási idõ:   0.000 s HELYES
+Feladvány: tests/test038d.txt, megoldásszám:   1, futási idõ:   0.020 s HELYES
+Feladvány: tests/test039d.txt, megoldásszám:   1, futási idõ:   0.000 s HELYES
+Feladvány: tests/test040d.txt, megoldásszám:   1, futási idõ:   0.010 s HELYES
+Feladvány: tests/test041d.txt, megoldásszám:   1, futási idõ:   0.000 s HELYES
+Feladvány: tests/test042d.txt, megoldásszám:   1, futási idõ:   0.010 s HELYES
+Feladvány: tests/test043d.txt, megoldásszám:   2, futási idõ:   0.000 s HELYES
+Feladvány: tests/test044d.txt, megoldásszám:   2, futási idõ:   0.010 s HELYES
+Feladvány: tests/test045d.txt, megoldásszám:   2, futási idõ:   0.010 s HELYES
+Feladvány: tests/test046d.txt, megoldásszám:   2, futási idõ:   0.010 s HELYES
+Feladvány: tests/test047d.txt, megoldásszám:   2, futási idõ:   0.010 s HELYES
+Feladvány: tests/test048d.txt, megoldásszám:   2, futási idõ:   0.010 s HELYES
+Feladvány: tests/test049d.txt, megoldásszám:   2, futási idõ:   0.010 s HELYES
+Feladvány: tests/test050d.txt, megoldásszám:   2, futási idõ:   0.010 s HELYES
+Feladvány: tests/test051d.txt, megoldásszám:   2, futási idõ:   0.010 s HELYES
+Feladvány: tests/test052d.txt, megoldásszám:   2, futási idõ:   0.010 s HELYES
+Feladvány: tests/test053d.txt, megoldásszám:   2, futási idõ:   0.010 s HELYES
+Feladvány: tests/test054d.txt, megoldásszám:   2, futási idõ:   0.020 s HELYES
+Feladvány: tests/test055d.txt, megoldásszám:   3, futási idõ:   0.010 s HELYES
+Feladvány: tests/test056d.txt, megoldásszám:   4, futási idõ:   0.010 s HELYES
+Feladvány: tests/test057d.txt, megoldásszám:   4, futási idõ:   0.010 s HELYES
+Feladvány: tests/test058d.txt, megoldásszám:   4, futási idõ:   0.010 s HELYES
+Feladvány: tests/test059d.txt, megoldásszám:   4, futási idõ:   0.010 s HELYES
+Feladvány: tests/test060d.txt, megoldásszám:   4, futási idõ:   0.010 s HELYES
+Feladvány: tests/test061d.txt, megoldásszám:   4, futási idõ:   0.010 s HELYES
+Feladvány: tests/test062d.txt, megoldásszám:   4, futási idõ:   0.020 s HELYES
+Feladvány: tests/test063d.txt, megoldásszám:   4, futási idõ:   0.030 s HELYES
+Feladvány: tests/test064d.txt, megoldásszám:   7, futási idõ:   0.050 s HELYES
+Feladvány: tests/test065d.txt, megoldásszám:   8, futási idõ:   0.010 s HELYES
+Feladvány: tests/test066d.txt, megoldásszám:   9, futási idõ:   0.000 s HELYES
+Feladvány: tests/test067d.txt, megoldásszám:   9, futási idõ:   0.020 s HELYES
+Feladvány: tests/test068d.txt, megoldásszám:  10, futási idõ:   0.010 s HELYES
+Feladvány: tests/test069d.txt, megoldásszám:  16, futási idõ:   0.330 s HELYES
+Feladvány: tests/test070d.txt, megoldásszám:  24, futási idõ:   0.010 s HELYES
+Feladvány: tests/test071d.txt, megoldásszám:  30, futási idõ:   0.010 s HELYES
+Feladvány: tests/test072d.txt, megoldásszám:  30, futási idõ:   0.020 s HELYES
+Feladvány: tests/test073d.txt, megoldásszám:  38, futási idõ:   0.020 s HELYES
+Feladvány: tests/test074d.txt, megoldásszám:  48, futási idõ:   0.050 s HELYES
+Feladvány: tests/test075d.txt, megoldásszám:  51, futási idõ:   0.030 s HELYES
+Feladvány: tests/test076d.txt, megoldásszám:  52, futási idõ:   0.100 s HELYES
+Feladvány: tests/test077d.txt, megoldásszám:  52, futási idõ:   0.030 s HELYES
+Feladvány: tests/test078d.txt, megoldásszám:  54, futási idõ:   0.020 s HELYES
+Feladvány: tests/test079d.txt, megoldásszám:  56, futási idõ:   0.090 s HELYES
+Feladvány: tests/test080d.txt, megoldásszám:  60, futási idõ:   0.040 s HELYES
+Feladvány: tests/test081d.txt, megoldásszám:  63, futási idõ:   0.130 s HELYES
+Feladvány: tests/test082d.txt, megoldásszám:  64, futási idõ:   0.030 s HELYES
+Feladvány: tests/test083d.txt, megoldásszám:  64, futási idõ:   0.070 s HELYES
+Feladvány: tests/test084d.txt, megoldásszám:  66, futási idõ:   0.010 s HELYES
+Feladvány: tests/test085d.txt, megoldásszám:  72, futási idõ:   0.060 s HELYES
+Feladvány: tests/test086d.txt, megoldásszám:  72, futási idõ:   0.870 s HELYES
+Feladvány: tests/test087d.txt, megoldásszám:  76, futási idõ:   0.030 s HELYES
+Feladvány: tests/test088d.txt, megoldásszám:  84, futási idõ:   0.050 s HELYES
+Feladvány: tests/test089d.txt, megoldásszám:  84, futási idõ:   0.300 s HELYES
+Feladvány: tests/test090d.txt, megoldásszám:  86, futási idõ:   0.030 s HELYES
+Feladvány: tests/test091d.txt, megoldásszám:  86, futási idõ:   0.050 s HELYES
+Feladvány: tests/test092d.txt, megoldásszám:  87, futási idõ:   0.450 s HELYES
+Feladvány: tests/test093d.txt, megoldásszám:  88, futási idõ:   0.290 s HELYES
+Feladvány: tests/test094d.txt, megoldásszám:  93, futási idõ:   0.050 s HELYES
+Feladvány: tests/test095d.txt, megoldásszám:  96, futási idõ:   0.090 s HELYES
+Feladvány: tests/test096d.txt, megoldásszám:  97, futási idõ:   0.020 s HELYES
+Feladvány: tests/test097d.txt, megoldásszám:  99, futási idõ:   0.260 s HELYES
+Feladvány: tests/test098d.txt, megoldásszám: 100, futási idõ:   0.060 s HELYES
+Feladvány: tests/test099d.txt, megoldásszám: 646, futási idõ:   9.750 s HELYES
+Feladvány: tests/test100d.txt, megoldásszám:   1, futási idõ:   0.040 s HELYES
+Feladvány: tests/test101d.txt, megoldásszám:   1, futási idõ:   0.040 s HELYES
+Feladvány: tests/test102d.txt, megoldásszám:   1, futási idõ:   0.040 s HELYES
+Feladvány: tests/test103d.txt, megoldásszám:   1, futási idõ:   0.040 s HELYES
+Feladvány: tests/test104d.txt, megoldásszám:   1, futási idõ:   0.040 s HELYES
+Feladvány: tests/test105d.txt, megoldásszám:   1, futási idõ:   0.040 s HELYES
+Feladvány: tests/test106d.txt, megoldásszám:   1, futási idõ:   0.040 s HELYES
+Feladvány: tests/test107d.txt, megoldásszám:   1, futási idõ:   0.040 s HELYES
+Feladvány: tests/test108d.txt, megoldásszám:   1, futási idõ:   0.040 s HELYES
+Feladvány: tests/test109d.txt, megoldásszám:   1, futási idõ:   0.040 s HELYES
+Feladvány: tests/test110d.txt, megoldásszám:   1, futási idõ:   0.040 s HELYES
+Feladvány: tests/test111d.txt, megoldásszám:   1, futási idõ:   0.040 s HELYES
+Feladvány: tests/test112d.txt, megoldásszám:   1, futási idõ:   0.040 s HELYES
+Feladvány: tests/test113d.txt, megoldásszám:   1, futási idõ:   0.040 s HELYES
+Feladvány: tests/test114d.txt, megoldásszám:   1, futási idõ:   0.040 s HELYES
+Feladvány: tests/test115d.txt, megoldásszám:   1, futási idõ:   0.040 s HELYES
+Feladvány: tests/test116d.txt, megoldásszám:   1, futási idõ:   0.040 s HELYES
+Feladvány: tests/test117d.txt, megoldásszám:   1, futási idõ:   0.070 s HELYES
+Feladvány: tests/test118d.txt, megoldásszám:   2, futási idõ:   0.040 s HELYES
+Feladvány: tests/test119d.txt, megoldásszám:   2, futási idõ:   0.040 s HELYES
+Feladvány: tests/test120d.txt, megoldásszám:   2, futási idõ:   0.040 s HELYES
+Feladvány: tests/test121d.txt, megoldásszám:   2, futási idõ:   0.040 s HELYES
+Feladvány: tests/test122d.txt, megoldásszám:   2, futási idõ:   0.040 s HELYES
+Feladvány: tests/test123d.txt, megoldásszám:   2, futási idõ:   0.040 s HELYES
+Feladvány: tests/test124d.txt, megoldásszám:   2, futási idõ:   0.040 s HELYES
+Feladvány: tests/test125d.txt, megoldásszám:   2, futási idõ:   0.050 s HELYES
+Feladvány: tests/test126d.txt, megoldásszám:   2, futási idõ:   0.040 s HELYES
+Feladvány: tests/test127d.txt, megoldásszám:   2, futási idõ:   0.050 s HELYES
+Feladvány: tests/test128d.txt, megoldásszám:   2, futási idõ:   0.160 s HELYES
+Feladvány: tests/test129d.txt, megoldásszám:   4, futási idõ:   0.050 s HELYES
+Feladvány: tests/test130d.txt, megoldásszám:   4, futási idõ:   0.040 s HELYES
+Feladvány: tests/test131d.txt, megoldásszám:   4, futási idõ:   0.040 s HELYES
+Feladvány: tests/test132d.txt, megoldásszám:   4, futási idõ:   0.060 s HELYES
+Feladvány: tests/test133d.txt, megoldásszám:   4, futási idõ:   0.040 s HELYES
+Feladvány: tests/test134d.txt, megoldásszám:   4, futási idõ:   0.040 s HELYES
+Feladvány: tests/test135d.txt, megoldásszám:   4, futási idõ:   0.040 s HELYES
+Feladvány: tests/test136d.txt, megoldásszám:   4, futási idõ:   0.060 s HELYES
+Feladvány: tests/test137d.txt, megoldásszám:   5, futási idõ:   0.040 s HELYES
+Feladvány: tests/test138d.txt, megoldásszám:   6, futási idõ:   0.030 s HELYES
+Feladvány: tests/test139d.txt, megoldásszám:   6, futási idõ:   0.080 s HELYES
+Feladvány: tests/test140d.txt, túllépte az idõkorlátot (120 s)
+Feladvány: tests/test141d.txt, megoldásszám:   8, futási idõ:   0.040 s HELYES
+Feladvány: tests/test142d.txt, megoldásszám:   8, futási idõ:   0.070 s HELYES
+Feladvány: tests/test143d.txt, megoldásszám:  10, futási idõ:   0.150 s HELYES
+Feladvány: tests/test144d.txt, megoldásszám:  32, futási idõ:   0.160 s HELYES
+Feladvány: tests/test145d.txt, megoldásszám:  40, futási idõ:   5.670 s HELYES
+Feladvány: tests/test146d.txt, megoldásszám:  48, futási idõ:   0.070 s HELYES
+Feladvány: tests/test147d.txt, megoldásszám:  48, futási idõ:  32.230 s HELYES
+Feladvány: tests/test148d.txt, megoldásszám:  50, futási idõ:  30.130 s HELYES
+Feladvány: tests/test149d.txt, megoldásszám:  56, futási idõ:   0.550 s HELYES
+Feladvány: tests/test150d.txt, megoldásszám:  56, futási idõ:   0.570 s HELYES
+Feladvány: tests/test151d.txt, megoldásszám:  56, futási idõ:   2.950 s HELYES
+Feladvány: tests/test152d.txt, megoldásszám:  58, futási idõ:  17.250 s HELYES
+Feladvány: tests/test153d.txt, túllépte az idõkorlátot (120 s)
+Feladvány: tests/test154d.txt, megoldásszám:  60, futási idõ:   0.150 s HELYES
+Feladvány: tests/test155d.txt, megoldásszám:  60, futási idõ:   8.090 s HELYES
+Feladvány: tests/test156d.txt, megoldásszám:  64, futási idõ:   1.180 s HELYES
+Feladvány: tests/test157d.txt, megoldásszám:  68, futási idõ:   0.310 s HELYES
+Feladvány: tests/test158d.txt, megoldásszám:  70, futási idõ:   0.340 s HELYES
+Feladvány: tests/test159d.txt, megoldásszám:  73, futási idõ:   0.760 s HELYES
+Feladvány: tests/test160d.txt, megoldásszám:  75, futási idõ:   3.500 s HELYES
+Feladvány: tests/test161d.txt, megoldásszám:  75, futási idõ:   7.100 s HELYES
+Feladvány: tests/test162d.txt, megoldásszám:  80, futási idõ:   0.160 s HELYES
+Feladvány: tests/test163d.txt, megoldásszám:  80, futási idõ:   0.200 s HELYES
+Feladvány: tests/test164d.txt, megoldásszám:  80, futási idõ:   1.300 s HELYES
+Feladvány: tests/test165d.txt, túllépte az idõkorlátot (120 s)
+Feladvány: tests/test166d.txt, megoldásszám:  84, futási idõ:   7.110 s HELYES
+Feladvány: tests/test167d.txt, megoldásszám:  85, futási idõ:  26.940 s HELYES
+Feladvány: tests/test168d.txt, megoldásszám:  86, futási idõ:   0.100 s HELYES
+Feladvány: tests/test169d.txt, megoldásszám:  96, futási idõ:   0.110 s HELYES
+Feladvány: tests/test170d.txt, megoldásszám:  96, futási idõ:   0.380 s HELYES
+Feladvány: tests/test171d.txt, megoldásszám:  96, futási idõ:   1.110 s HELYES
+Feladvány: tests/test172d.txt, megoldásszám:  96, futási idõ:   7.440 s HELYES
+Feladvány: tests/test173d.txt, megoldásszám: 100, futási idõ:  17.160 s HELYES
+Feladvány: tests/test174d.txt, megoldásszám:   1, futási idõ:   0.240 s HELYES
+Feladvány: tests/test175d.txt, megoldásszám:   1, futási idõ:   0.210 s HELYES
+Feladvány: tests/test176d.txt, megoldásszám:   1, futási idõ:   0.200 s HELYES
+Feladvány: tests/test177d.txt, megoldásszám:   1, futási idõ:   0.210 s HELYES
+Feladvány: tests/test178d.txt, megoldásszám:   1, futási idõ:   0.220 s HELYES
+Feladvány: tests/test179d.txt, megoldásszám:   1, futási idõ:   0.230 s HELYES
+Feladvány: tests/test180d.txt, megoldásszám:   1, futási idõ:   0.210 s HELYES
+Feladvány: tests/test181d.txt, megoldásszám:   1, futási idõ:   0.190 s HELYES
+Feladvány: tests/test182d.txt, megoldásszám:   1, futási idõ:   0.240 s HELYES
+Feladvány: tests/test183d.txt, megoldásszám:   1, futási idõ:   0.220 s HELYES
+Feladvány: tests/test184d.txt, megoldásszám:   1, futási idõ:   0.200 s HELYES
+Feladvány: tests/test185d.txt, megoldásszám:   1, futási idõ:   0.210 s HELYES
+Feladvány: tests/test186d.txt, megoldásszám:   1, futási idõ:   0.220 s HELYES
+Feladvány: tests/test187d.txt, megoldásszám:   1, futási idõ:   0.230 s HELYES
+Feladvány: tests/test188d.txt, megoldásszám:   1, futási idõ:   0.420 s HELYES
+Feladvány: tests/test189d.txt, megoldásszám:   1, futási idõ:   0.210 s HELYES
+Feladvány: tests/test190d.txt, megoldásszám:   1, futási idõ:   0.230 s HELYES
+Feladvány: tests/test191d.txt, megoldásszám:   1, futási idõ:   0.240 s HELYES
+Feladvány: tests/test192d.txt, megoldásszám:   2, futási idõ:   0.220 s HELYES
+Feladvány: tests/test193d.txt, megoldásszám:   2, futási idõ:   0.210 s HELYES
+Feladvány: tests/test194d.txt, megoldásszám:   2, futási idõ:   0.240 s HELYES
+Feladvány: tests/test195d.txt, megoldásszám:   2, futási idõ:   0.240 s HELYES
+Feladvány: tests/test196d.txt, megoldásszám:   2, futási idõ:   0.230 s HELYES
+Feladvány: tests/test197d.txt, megoldásszám:   2, futási idõ:   0.210 s HELYES
+Feladvány: tests/test198d.txt, megoldásszám:   2, futási idõ:   0.220 s HELYES
+Feladvány: tests/test199d.txt, megoldásszám:   2, futási idõ:   0.260 s HELYES
+Feladvány: tests/test200d.txt, megoldásszám:   2, futási idõ:   0.250 s HELYES
+Feladvány: tests/test201d.txt, megoldásszám:   2, futási idõ:   0.240 s HELYES
+Feladvány: tests/test202d.txt, megoldásszám:   2, futási idõ:   0.330 s HELYES
+Feladvány: tests/test203d.txt, megoldásszám:   4, futási idõ:   0.220 s HELYES
+Feladvány: tests/test204d.txt, megoldásszám:   4, futási idõ:   0.230 s HELYES
+Feladvány: tests/test205d.txt, megoldásszám:   4, futási idõ:   0.200 s HELYES
+Feladvány: tests/test206d.txt, megoldásszám:   4, futási idõ:   0.240 s HELYES
+Feladvány: tests/test207d.txt, megoldásszám:   4, futási idõ:   1.090 s HELYES
+Feladvány: tests/test208d.txt, megoldásszám:   4, futási idõ:   1.990 s HELYES
+Feladvány: tests/test209d.txt, megoldásszám:   4, futási idõ:   5.380 s HELYES
+Feladvány: tests/test210d.txt, túllépte az idõkorlátot (120 s)
+Feladvány: tests/test211d.txt, túllépte az idõkorlátot (120 s)
+Feladvány: tests/test212d.txt, megoldásszám:   6, futási idõ:   0.240 s HELYES
+Feladvány: tests/test213d.txt, megoldásszám:   6, futási idõ:   0.500 s HELYES
+Feladvány: tests/test214d.txt, megoldásszám:   6, futási idõ:   4.990 s HELYES
+Feladvány: tests/test215d.txt, túllépte az idõkorlátot (120 s)
+Feladvány: tests/test216d.txt, megoldásszám:   8, futási idõ:   0.220 s HELYES
+Feladvány: tests/test217d.txt, túllépte az idõkorlátot (120 s)
+Feladvány: tests/test218d.txt, túllépte az idõkorlátot (120 s)
+Feladvány: tests/test219d.txt, megoldásszám:  54, futási idõ:  14.560 s HELYES
+Feladvány: tests/test220d.txt, megoldásszám:  64, futási idõ:   1.650 s HELYES
+Feladvány: tests/test221d.txt, megoldásszám:  72, futási idõ:   7.670 s HELYES
+Feladvány: tests/test222d.txt, megoldásszám:  72, futási idõ:  15.220 s HELYES
+Feladvány: tests/test223d.txt, túllépte az idõkorlátot (120 s)
+Feladvány: tests/test224d.txt, túllépte az idõkorlátot (120 s)
+Feladvány: tests/test225d.txt, túllépte az idõkorlátot (120 s)
+Feladvány: tests/test226d.txt, túllépte az idõkorlátot (120 s)
+Feladvány: tests/test227d.txt, túllépte az idõkorlátot (120 s)
+Feladvány: tests/test228d.txt, túllépte az idõkorlátot (120 s)
+Feladvány: tests/test229d.txt, túllépte az idõkorlátot (120 s)
+Feladvány: tests/test230d.txt, túllépte az idõkorlátot (120 s)
+Feladvány: tests/test231d.txt, megoldásszám:  80, futási idõ:   9.750 s HELYES
+Feladvány: tests/test232d.txt, túllépte az idõkorlátot (120 s)
+Feladvány: tests/test233d.txt, túllépte az idõkorlátot (120 s)
+Feladvány: tests/test234d.txt, túllépte az idõkorlátot (120 s)
+Feladvány: tests/test235d.txt, megoldásszám:  88, futási idõ:   0.380 s HELYES
+Feladvány: tests/test236d.txt, túllépte az idõkorlátot (120 s)
+Feladvány: tests/test237d.txt, túllépte az idõkorlátot (120 s)
+Feladvány: tests/test238d.txt, megoldásszám:  96, futási idõ:   0.380 s HELYES
+Feladvány: tests/test239d.txt, megoldásszám:  96, futási idõ:   0.410 s HELYES
+Feladvány: tests/test240d.txt, megoldásszám:  96, futási idõ:   3.510 s HELYES
+Feladvány: tests/test241d.txt, megoldásszám:  96, futási idõ: 118.500 s HELYES
+Feladvány: tests/test242d.txt, túllépte az idõkorlátot (120 s)
+Feladvány: tests/test243d.txt, túllépte az idõkorlátot (120 s)
+Feladvány: tests/test244d.txt, túllépte az idõkorlátot (120 s)
+Feladvány: tests/test245d.txt, túllépte az idõkorlátot (120 s)
+Feladvány: tests/test246d.txt, túllépte az idõkorlátot (120 s)
+Feladvány: tests/test247d.txt, túllépte az idõkorlátot (120 s)
+Feladvány: tests/test248d.txt, megoldásszám:   1, futási idõ:   0.980 s HELYES
+Feladvány: tests/test249d.txt, megoldásszám:   1, futási idõ:   0.960 s HELYES
+Feladvány: tests/test250d.txt, megoldásszám:   1, futási idõ:   0.970 s HELYES
+Feladvány: tests/test251d.txt, megoldásszám:   1, futási idõ:   0.990 s HELYES
+Feladvány: tests/test252d.txt, megoldásszám:   1, futási idõ:   1.040 s HELYES
+Feladvány: tests/test253d.txt, megoldásszám:   1, futási idõ:   0.920 s HELYES
+Feladvány: tests/test254d.txt, megoldásszám:   1, futási idõ:   0.910 s HELYES
+Feladvány: tests/test255d.txt, megoldásszám:   1, futási idõ:   1.140 s HELYES
+Feladvány: tests/test256d.txt, túllépte az idõkorlátot (120 s)
+Feladvány: tests/test257d.txt, megoldásszám:   4, futási idõ:   0.940 s HELYES
+Feladvány: tests/test258d.txt, megoldásszám:   4, futási idõ:   0.930 s HELYES
+Feladvány: tests/test259d.txt, megoldásszám:   4, futási idõ:   0.990 s HELYES
+Feladvány: tests/test260d.txt, megoldásszám:   4, futási idõ:   1.000 s HELYES
+Feladvány: tests/test261d.txt, megoldásszám:   4, futási idõ:   1.010 s HELYES
+Feladvány: tests/test262d.txt, megoldásszám:   4, futási idõ:   1.080 s HELYES
+Feladvány: tests/test263d.txt, túllépte az idõkorlátot (120 s)
+Feladvány: tests/test264d.txt, túllépte az idõkorlátot (120 s)
+Feladvány: tests/test265d.txt, megoldásszám:   5, futási idõ:   1.020 s HELYES
+Feladvány: tests/test266d.txt, túllépte az idõkorlátot (120 s)
+Feladvány: tests/test267d.txt, megoldásszám:   8, futási idõ:   1.040 s HELYES
+Feladvány: tests/test268d.txt, megoldásszám:   8, futási idõ:   1.080 s HELYES
+Feladvány: tests/test269d.txt, megoldásszám:   8, futási idõ:   1.040 s HELYES
+Feladvány: tests/test270d.txt, megoldásszám:   8, futási idõ:   1.100 s HELYES
+Feladvány: tests/test271d.txt, túllépte az idõkorlátot (120 s)
